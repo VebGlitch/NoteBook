@@ -12,11 +12,16 @@
 | 5 |   	|   	|   	|
 
 
-[`DSA-sheet`](https://github.com/VebGlitch/NoteBook/tree/main/DSA-sheet) | [`GATEexam`](https://github.com/VebGlitch/NoteBook/tree/main/GATEexam)
+[`DSA-sheet`](https://github.com/VebGlitch/NoteBook/tree/main/DSA-sheet) | [`GATEexam`](https://github.com/VebGlitch/NoteBook/tree/main/GATEexam) | 
 
 ---
 
-[`ProjectLab`](https://github.com/VebGlitch/ProjectLab) This repository serves as a directory that helps you easily navigate through my other repositories and view the various projects I have completed.
+[`ProjectLab`](https://github.com/VebGlitch/ProjectLab) This repository serves as a directory that helps you easily navigate through various projects I have completed.
+
+[`Projects`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to check my current projects working.
+
+[`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets.
+
 
 ---
 <!-- Connect with me  -->
