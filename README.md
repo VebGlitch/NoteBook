@@ -1,4 +1,4 @@
-<a href="https://github.com/VebGlitch/NoteBook" target="_blank" > <kbd> <img align="left"  src="https://user-images.githubusercontent.com/109365075/232681066-b0a05bdb-be5e-48c4-b988-1532e82cbde0.png"  alt="NoteBook Banner" /> </kbd> </a> 
+<a href="https://github.com/VebGlitch/NoteBook" target="_blank" > <img align="left"  src="https://user-images.githubusercontent.com/109365075/232681066-b0a05bdb-be5e-48c4-b988-1532e82cbde0.png"  alt="NoteBook Banner" />  </a> 
 `MERN` `MEAN`
 
 ---
