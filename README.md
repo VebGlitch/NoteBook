@@ -3,8 +3,18 @@
 
 ---
 
+| [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)  	| [Frontend JS Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev)  	| [Backend Nodejs Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/2.%20Backend%20Nodejs%20Web.dev)  	|
+|---	|---	|---	|
+|   	|   	|   	|  
+|   	|   	|   	|
+|   	|   	|   	| 
+|   	|   	|   	|
+|   	|   	|   	|
+
+---
+
 ### 0. Basics
-- [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)
+[Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)
 
 
 ### 1. Frontend JS Web.dev
