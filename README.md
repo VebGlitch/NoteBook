@@ -16,13 +16,12 @@
 
 ---
 
-[`ProjectLab`](https://github.com/VebGlitch/ProjectLab) This repository serves as a directory that helps you easily navigate through various projects I have completed.
 
-[`Projects`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to check my current projects working.
-
-[`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets.
+[`ProjectLab`](https://github.com/VebGlitch/ProjectLab) repository serves as a directory that helps you easily navigate through various projects I have completed.
+[`ProjectsTab`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to navigate my current working projects workflow. [`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets.
 
 
+ 
 ---
 <!-- Connect with me  -->
 <a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/190886850-029b2ce4-7b0d-47dd-8781-7092bee9b79e.png" alt="Nilesh gmail" width="230" border="10"/> </a>
