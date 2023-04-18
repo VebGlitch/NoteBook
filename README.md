@@ -1,7 +1,12 @@
+<!--
 <a href="https://github.com/VebGlitch/NoteBook" target="_blank" > <img align="left"  src="https://user-images.githubusercontent.com/109365075/232681066-b0a05bdb-be5e-48c4-b988-1532e82cbde0.png"  alt="NoteBook Banner" />  </a> 
 `MERN` `MEAN`
 
 ---
+
+-->
+
+
 
 | # | [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)  	| [Frontend JS Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev)  	| [Backend Nodejs Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/2.%20Backend%20Nodejs%20Web.dev)  	| [dev guide](https://github.com/VebGlitch/NoteBook/tree/main/3.%20dev%20guide) |
 |--- |---	|---	|---	|--- |
