@@ -27,6 +27,7 @@
 [`ProjectsTab`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to navigate my current working projects workflow. [`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets. 
 
 [`VG Repo`](https://github.com/VebGlitch/VebGlitch) [`dummyTemplates`](https://github.com/VebGlitch/VebGlitch/tree/main/dummyTemplates) 
+[`Calendar`](https://calendar.google.com/calendar/u/0/r?pli=1)
 
 
  
