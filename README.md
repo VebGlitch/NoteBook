@@ -3,27 +3,16 @@
 
 ---
 
-| [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)  	| [Frontend JS Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev)  	| [Backend Nodejs Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/2.%20Backend%20Nodejs%20Web.dev)  	|
-|---	|---	|---	|
-|   	|   	|   	|  
-|   	|   	|   	|
-|   	|   	|   	| 
-|   	|   	|   	|
-|   	|   	|   	|
+| # | [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)  	| [Frontend JS Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev)  	| [Backend Nodejs Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/2.%20Backend%20Nodejs%20Web.dev)  	|
+|--- |---	|---	|---	|
+| 1 |   	| [HTML5](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/1.%20HTML5)  	|   	|  
+| 2 |   	| [CSS3](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/2.%20CSS3)  	|   	|
+| 3 |   	| [Javascript ](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/3.%20Javascript)  	|   	| 
+| 4 |   	|   	|   	|
+| 5 |   	|   	|   	|
 
 ---
 
-### 0. Basics
-[Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)
-
-
-### 1. Frontend JS Web.dev
-
-- [HTML5](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/1.%20HTML5)
-- [CSS3](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/2.%20CSS3)
-- [Javascript ](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/3.%20Javascript)
-
-### 2. Backend Nodejs Web.dev
 ### DSA-sheet
 ### GATEexam
 
