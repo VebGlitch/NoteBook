@@ -15,7 +15,7 @@
 [`DSA-sheet`](https://github.com/VebGlitch/NoteBook/tree/main/DSA-sheet) | [`GATEexam`](https://github.com/VebGlitch/NoteBook/tree/main/GATEexam) | 
 
 ---
-                                ---------------------------- ⭐ The End ⭐ ----------------------------
+                        ---------------------------- ⭐ The End ⭐ ----------------------------
 
 
 [`ProjectLab`](https://github.com/VebGlitch/ProjectLab) repository serves as a directory that helps you easily navigate through various projects I have completed.
