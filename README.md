@@ -26,8 +26,9 @@
 [`ProjectLab`](https://github.com/VebGlitch/ProjectLab) repository serves as a directory that helps you easily navigate through various projects I have completed.
 [`ProjectsTab`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to navigate my current working projects workflow. [`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets. 
 
-[`VG Repo`](https://github.com/VebGlitch/VebGlitch) [`dummyTemplates`](https://github.com/VebGlitch/VebGlitch/tree/main/dummyTemplates) 
-[`Calendar`](https://calendar.google.com/calendar/u/0/r?pli=1)
+[`VG Repo`](https://github.com/VebGlitch/VebGlitch)[`dummyTemplates`](https://github.com/VebGlitch/VebGlitch/tree/main/dummyTemplates) 
+
+[`Resources`](https://github.com/VebGlitch/NoteBook/blob/main/0.%20Basics/0.%20Resources.md)[`Calendar`](https://calendar.google.com/calendar/u/0/r?pli=1)[`Google-Docs`](https://docs.google.com/document/u/0/)
 
 
  
