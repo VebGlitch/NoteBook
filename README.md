@@ -3,8 +3,8 @@
 
 ---
 
-| # | [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)  	| [Frontend JS Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev)  	| [Backend Nodejs Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/2.%20Backend%20Nodejs%20Web.dev)  	|
-|--- |---	|---	|---	|
+| # | [Basics](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics)  	| [Frontend JS Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev)  	| [Backend Nodejs Web.dev](https://github.com/VebGlitch/NoteBook/tree/main/2.%20Backend%20Nodejs%20Web.dev)  	| [dev guide](https://github.com/VebGlitch/NoteBook/tree/main/3.%20dev%20guide) |
+|--- |---	|---	|---	|--- |
 | 1 | [Git & Github](https://github.com/VebGlitch/NoteBook/tree/main/0.%20Basics/1.%20git%20%26%20github)   	| [HTML5](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/1.%20HTML5)  	|   	|  
 | 2 |   	| [CSS3](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/2.%20CSS3)  	|   	|
 | 3 |   	| [Javascript ](https://github.com/VebGlitch/NoteBook/tree/main/1.%20Frontend%20JS%20Web.dev/3.%20Javascript)  	|   	| 
