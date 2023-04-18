@@ -11,10 +11,8 @@
 | 4 |   	|   	|   	|
 | 5 |   	|   	|   	|
 
----
 
-### DSA-sheet
-### GATEexam
+[`DSA-sheet`](https://github.com/VebGlitch/NoteBook/tree/main/DSA-sheet) | [`GATEexam`](https://github.com/VebGlitch/NoteBook/tree/main/GATEexam)
 
 ---
 
